@@ -24,8 +24,7 @@ This component has been made to learn something about layers and CoreAnimation.
 I don't have pro skill with CA and I am pretty sure that a better way to do things always exists, but we must start with something.
  
 ##Preview
-![Example]([https://dl.dropboxusercontent.com/u/515180/github/WdCheckBoxView/WDCheckBoxMovie.gif)
-
+[![Example](https://dl.dropboxusercontent.com/u/515180/github/WdCheckBoxView/WDCheckBoxMovie.gif)](https://dl.dropboxusercontent.com/u/515180/github/WdCheckBoxView/WDCheckBoxMovie.mov)
 ##Usage
 
     #import "WDCheckBoxView.h"
