@@ -153,7 +153,6 @@ NSString *const kHighlightAnimationKey = @"highlight";
 
 -(void)layoutSublayersOfLayer:(CALayer *)layer{
     [super layoutSublayersOfLayer:layer];
-    NSLog(@"layoutSublayersOfLayer");
     if (layer == self.layer){
         [self layoutBorderLayer];
         [self layoutSymbolLayer];
